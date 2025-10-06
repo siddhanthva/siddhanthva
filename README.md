@@ -22,12 +22,12 @@
 
 ## 🌱 I’m currently learning:
 - Advanced **Machine Learning** and **Deep Learning** techniques.  
-- Data engineering tools like **SQL**, **Power BI**, and **Cloud Platforms (AWS, GCP)**.  
+- Data engineering tools like **SQL**, **Power BI**, and **Cloud Platforms (AWS)**.  
 - Enhancing my **Python** and **R** programming skills for data-driven research.
 
 ## 👯 I’m looking to collaborate on:
-- Open-source **data science** or **AI** projects.  
-- Research work that uses **data for social or business impact**.  
+- Open-source **data science** and **AI** projects.  
+- Research work that uses **data for business impact**.  
 - Projects that bridge **data science with real-world applications**.
 
 ## 🤔 I’m looking for help with:
