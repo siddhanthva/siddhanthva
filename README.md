@@ -4,7 +4,7 @@
 **siddhanthva/siddhanthva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-👨‍💻 I'm **Siddhanth Veeranna Arkasali**, a passionate **Data Science graduate student at the University of Houston**, driven by curiosity and creativity to turn data into meaningful insights. I’m deeply interested in **machine learning, data visualization, and AI-driven problem-solving**.
+👨‍💻 I'm **Siddhanth Veeranna Arkasali**, a passionate **Engineering Data Science and AI graduate student at the University of Houston**, driven by curiosity and creativity to turn data into meaningful insights with engineering applications. I’m deeply interested in **machine learning, data visualization, and AI-driven problem-solving**.
 
 ## 🔭 I’m currently working on:
 - building **data science projects** focused on predictive analytics, EDA, and machine learning applications.
