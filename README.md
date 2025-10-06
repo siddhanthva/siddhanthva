@@ -13,21 +13,21 @@
 - Data engineering tools like **SQL**, **Power BI**, and **Cloud Platforms (AWS, GCP)**.  
 - Enhancing my **Python** and **R** programming skills for data-driven research.
 
-## - 👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:
 - Open-source **data science** or **AI** projects.  
 - Research work that uses **data for social or business impact**.  
 - Projects that bridge **data science with real-world applications**.
 
-## - 🤔 I’m looking for help with:
+🤔 I’m looking for help with:
 - Improving project structure and model deployment using **MLOps**.  
 - Guidance on contributing effectively to **open-source repositories**.
 
-##💬 Ask me about:
+💬 Ask me about:
 - Python, Pandas, Matplotlib, and Data Visualization.  
 - Machine Learning fundamentals and practical implementation.  
 - How to start with **Data Science projects** as a beginner.
 
-##📫 How to reach me:
+📫 How to reach me:
 - **Email:** [siddhanthva@gmail.com](mailto:siddhanthva@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/siddhanth-arkasali](https://linkedin.com/in/siddhanth-arkasali)  
 - **GitHub:** [github.com/siddhanthva](https://github.com/siddhanthva)
