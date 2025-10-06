@@ -10,6 +10,16 @@
 - building **data science projects** focused on predictive analytics, EDA, and machine learning applications.
 - Exploring ways to apply **AI in manufacturing, and business analytics**.
 
+## 🛠️ Technical Skills:
+- Languages: Python, R, SQL
+- Libraries: NumPy, Pandas, Matplotlib
+- Frameworks: PyTorch, TensorFlow, Scikit-learn
+- MLOps & Tools: Kubernetes, MLflow, GitHub Actions
+- Data & Visualization Tools: Power BI, Jupyter Notebook
+- DataBases: MySQL, MongoDB
+- Specialties: Prompt Engineering
+- Cloud & Big Data: AWS
+
 ## 🌱 I’m currently learning:
 - Advanced **Machine Learning** and **Deep Learning** techniques.  
 - Data engineering tools like **SQL**, **Power BI**, and **Cloud Platforms (AWS, GCP)**.  
@@ -25,7 +35,7 @@
 - Guidance on contributing effectively to **open-source repositories**.
 
 ## 💬 Ask me about:
-- Python, Pandas, Matplotlib, and Data Visualization.  
+- Python, NumPy, Pandas, Matplotlib, and Data Visualization.  
 - Machine Learning fundamentals and practical implementation.  
 - How to start with **Data Science projects** as a beginner.
 
