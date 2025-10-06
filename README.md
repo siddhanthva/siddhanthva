@@ -6,7 +6,7 @@
 
 ## - 👨‍💻 I'm **Siddhanth Veeranna Arkasali**, a passionate **Data Science graduate student at the University of Houston**, driven by curiosity and creativity to turn data into meaningful insights. I’m deeply interested in **machine learning, data visualization, and AI-driven problem-solving**.
 
-## - 🔭 I’m currently working on building **data science projects** focused on predictive analytics, EDA, and machine learning applications. Exploring ways to apply **AI in manufacturing, and business analytics**.
+## 🔭 I’m currently working on building **data science projects** focused on predictive analytics, EDA, and machine learning applications. Exploring ways to apply **AI in manufacturing, and business analytics**.
 
 ## - 🌱 I’m currently learning:
 - Advanced **Machine Learning** and **Deep Learning** techniques.  
