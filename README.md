@@ -18,7 +18,7 @@
 - Data & Visualization Tools: Power BI, Jupyter Notebook
 - DataBases: MySQL, MongoDB
 - Specialties: Prompt Engineering
-- Cloud & Big Data: AWS
+- Cloud: AWS
 
 ## 🌱 I’m currently learning:
 - Advanced **Machine Learning** and **Deep Learning** techniques.  
